@@ -1,7 +1,7 @@
 /* font-family: "Orbitron"; */
 @font-face {
   font-family: "Orbitron";
-  src: url("./assets/fonts/Orbitron/Orbitron-VariableFont_wght.ttf");
+  src: url("../fonts/Orbitron/Orbitron-VariableFont_wght.ttf");
   font-style: normal;
   font-weight: normal;
 }
@@ -17,7 +17,7 @@
 
 body {
   position: relative;
-  background: #efefef url(./assets/img/back_12_1.jpg) no-repeat fixed top left;
+  background: #efefef url(../img/back_12_1.jpg) no-repeat fixed top left;
   background-size: cover;
 }
 
